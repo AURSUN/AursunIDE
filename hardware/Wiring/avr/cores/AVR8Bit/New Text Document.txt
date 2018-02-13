@@ -1,0 +1,10 @@
+#include<Arduino.h>
+#include<wiring.h>
+int main()
+{
+     void setup();
+	 while(1)
+	 {
+	 void loop();
+	 }
+}
