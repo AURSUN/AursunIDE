@@ -1,8 +1,0 @@
-pfodParser	KEYWORD1
-parse	KEYWORD2
-parseLong	KEYWORD2
-writeToSerial	KEYWORD2
-skipCmd	KEYWORD2
-getCmd	KEYWORD2
-getArgsCount	KEYWORD2
-

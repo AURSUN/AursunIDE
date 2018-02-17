@@ -1,4 +1,0 @@
-/**
- * Connecting a Lantronix XPORT
- */
-

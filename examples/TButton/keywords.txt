@@ -1,5 +1,0 @@
-TButton		KEYWORD1
-isActive	KEYWORD2
-delay		KEYWORD2
-
-

@@ -1,3 +1,0 @@
-DisplayValueOnLed	KEYWORD1
-tick				KEYWORD2
-setValue			KEYWORD2
